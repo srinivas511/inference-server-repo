@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  inference:
+  - apiVersion: v1
+    appVersion: "0.0.1"
+    created: 2019-05-14T15:31:27.967974-05:00
+    description: Helm CHart for Inference Server
+    digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
+    name: inference
+    urls:
+    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/inference-0.0.5.tgz
+    version: 0.0.5
