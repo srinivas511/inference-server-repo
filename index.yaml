@@ -13,7 +13,7 @@ entries:
   boxinference:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-14T15:31:27.967974-05:00
+    created: 2019-07-17T16:46:27.967974-05:00
     description: A Helm chart for Box Inference Model
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: boxinference
