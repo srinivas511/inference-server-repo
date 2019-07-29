@@ -8,8 +8,8 @@ entries:
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: inference
     urls:
-    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/inference-0.0.8.tgz
-    version: 0.0.8
+    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/inference-0.0.9.tgz
+    version: 0.0.9
   boxinference:
   - apiVersion: v1
     appVersion: "1.0"
