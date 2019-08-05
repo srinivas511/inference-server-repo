@@ -20,3 +20,13 @@ entries:
     urls:
     - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/boxinference-0.1.0.tgz
     version: 0.1.0
+  iva-ui:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-08-05T13:13:27.967974-05:00
+    description: User interface for IVA
+    digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
+    name: iva-ui
+    urls:
+    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/iva-ui-0.1.0.tgz
+    version: 0.1.0
