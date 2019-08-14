@@ -29,4 +29,4 @@ entries:
     name: iva-ui
     urls:
     - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/iva-ui-0.0.10.tgz
-    version: 0.1.0
+    version: 0.0.10
