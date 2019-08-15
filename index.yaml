@@ -28,5 +28,5 @@ entries:
     digest: 63aecbb26be60f4850ab6bb59ef6fe4558ccd9f8a2cc6a73c50642b876ac6782
     name: va-ui
     urls:
-    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/va-ui-1.0.0.tgz.tgz
+    - https://raw.githubusercontent.com/srinivas511/inference-server-repo/master/va-ui-1.0.0.tgz
     version: 1.0.0
